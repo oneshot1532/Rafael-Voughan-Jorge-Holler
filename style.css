@@ -20,7 +20,7 @@ justify-content: space-around;
 a{
     margin: 20px;
     padding: 20px;
-    background-color: black;
-    color: white;
+    background-color: rgb(255, 171, 240);
+    color: rgb(120, 120, 120);
     border-radius: 20px;
 }
