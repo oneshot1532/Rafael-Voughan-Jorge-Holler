@@ -5,8 +5,18 @@ header {
   align-items: center;
 }
 
+/* Isso vai fazer a imagem e o texto de cada bloco ficarem de lado */
 .bloco-header {
-  display: flex; 
-  align-items: center;
-  gap: 10px; 
+  display: flex;
+  align-items: center; /* Alinha o texto no meio da altura da imagem */
+  gap: 15px; /* Cria um espaço de 15px entre a imagem e o texto */
 }
+
+/* Ajuste opcional: remove as margens padrões dos textos para alinhar melhor */
+.bloco-header p, .bloco-header h1 {
+  margin: 0;
+}
+
+
+
+
