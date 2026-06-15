@@ -1,0 +1,12 @@
+header {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  gap: 40px;
+  align-items: center;
+}
+
+.bloco-header {
+  display: flex; 
+  align-items: center;
+  gap: 10px; 
+}
