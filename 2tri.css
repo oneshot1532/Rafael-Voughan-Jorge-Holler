@@ -5,9 +5,6 @@ header {
   padding: 10px 40px; 
 }
 
-.bloco-header:nth-child(3) {
-  margin-left: auto;
-}
 
 .bloco-header {
   display: flex;
