@@ -1,8 +1,12 @@
 header {
-  display: flex; 
-  justify-content: space-between; 
+  display: flex;
   align-items: center;
+  gap: 40px; 
   padding: 10px 40px; 
+}
+
+.bloco-header:nth-child(3) {
+  margin-left: auto;
 }
 
 .bloco-header {
